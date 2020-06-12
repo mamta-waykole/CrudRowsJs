@@ -1,0 +1,13 @@
+table{
+    background-color: lightgray;
+}
+#row{
+    background-color: pink;
+}
+.add:hover{
+    background-color: pink;
+    border: none;
+}
+.add{
+    align-items: center;
+}
